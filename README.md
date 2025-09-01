@@ -26,7 +26,7 @@ The notebook walks through data preprocessing, model training, evaluation, and v
 ## 🚀 How to Run
 1. Clone the repository:  
    ```
-   git clone https://github.com/your-ronakjangra7251-del/house-price-prediction-decision-tree.git
+   git clone https://github.com/ronakjangra7251-del/house-price-prediction-decision-tree.git
 2.install required libraries
   pip install - requirements.txt
 
